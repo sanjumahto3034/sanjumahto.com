@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Game Development**
 
-- 👨‍💻 All of my projects are available at [[here](https://github.com/sanjumahto3034)](GitHub)
+- 👨‍💻 All of my projects are available at [https://github.com/sanjumahto3034](GitHub)
 
 - 📝 My website is [http://sanjumahto.epizy.com](http://sanjumahto.epizy.com)
 
