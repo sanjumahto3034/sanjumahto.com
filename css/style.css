@@ -222,7 +222,6 @@ html {
 
 /* --------------- Second Container("Engine Dis") ------------- */
 .second-container {
- 
   display: flex;
   flex-direction: row;
   margin-left: 5vw;
@@ -596,7 +595,7 @@ html {
     margin-left: 0vw;
     margin-right: 5vw;
     margin-top: 7vh;
-    /* margin-bottom: 100vh; */
+    margin-bottom: 100vh;
     height: 10vh;
     box-shadow: rgba(17, 12, 46, 0) 0px 48px 100px 0px;
 
@@ -937,6 +936,7 @@ a{
 /* ------------------------------ Second Container ----------------------------------*/
 .second_container{
   background-color: #E8F9FD;
+  /* margin-top: 1000px; */
 }
 .my_projects{
   font-size: 3rem;
@@ -973,6 +973,7 @@ a{
   display: flex;
 }
 .test_container_rev{
+  border-radius: 10px;
   margin-bottom: 10%;
   margin-left: 20%;
   margin-right: 10%;
